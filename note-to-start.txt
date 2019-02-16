@@ -1,0 +1,7 @@
+to start this program
+
+we need to set the environment variable of
+NODE_ENV
+if this is set then ok else by default production environment
+is run, else if it is set to the development environment
+then the nodemon version  of the npm start will be run
